@@ -1,12 +1,12 @@
 Adobe connect video downloder and converter to mp4
 
-usage :
+Usage :
 
-1- install ffmpeg and add to path :
+1- Install ffmpeg and add to system path :
 https://ffmpeg.org/download.html
 
-2- install python requests and tqdm libraries :
+2- Install python requests and tqdm libraries :
 pip install requests tqdm
 
-3- run "python AdobeConnectMP4Downloader.py"
+3- Run "python AdobeConnectMP4Downloader.py"
 and enter meeting url and email and password
